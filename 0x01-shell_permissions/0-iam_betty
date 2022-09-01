@@ -1,4 +1,3 @@
-
-su betty
 #!/bash/bin
+su betty
 
